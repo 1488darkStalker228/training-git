@@ -15,4 +15,4 @@ const app = 12
 //Ещэ хуйня
 //Ещэ хуйня
 //Ещэ хуйня
-const obj = {}
+const array = []
