@@ -1,4 +1,5 @@
-const main = 1488
+const main = 145
+const maineclain = 1488
 с апи
 //Заменил стринг в main.mjs на какую-то хуйню в ветку main;
 //Заменил стринг в main.mjs на какую-то хуйню в ветку main;
